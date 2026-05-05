@@ -4,6 +4,9 @@ Routine Timer is a simple and focused productivity app that helps you stay consi
 It guides you through tasks using structured timers, smart reminders, and clear progress tracking — so you actually follow what you plan.
 
 ---
+## 📥 Download APK
+
+[Download Routine Timer](https://github.com/selvakumar246/routine-timer-app/releases)
 
 ## 🚀 Features
 
