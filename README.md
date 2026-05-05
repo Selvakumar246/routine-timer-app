@@ -7,8 +7,8 @@ It guides you through tasks using structured timers, smart reminders, and clear 
 ## 📥 Download APK
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/routine-timer-app/releases">
-    <img src="https://img.shields.io/badge/Download%20APK-blue?style=for-the-badge&logo=android&logoColor=white" />
+  <a href="https://github.com/selvakumar246/routine-timer-app/releases">
+    <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" />
   </a>
 </p>
 
