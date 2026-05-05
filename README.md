@@ -6,7 +6,11 @@ It guides you through tasks using structured timers, smart reminders, and clear 
 ---
 ## 📥 Download APK
 
-###[Download Routine Timer](https://github.com/selvakumar246/routine-timer-app/releases)
+<p align="center">
+  <a href="https://github.com/selvakumar246/routine-timer-app/releases">
+    <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" />
+  </a>
+</p>
 
 ## 🚀 Features
 
