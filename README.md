@@ -46,17 +46,17 @@ It guides you through tasks using structured timers, smart reminders, and clear 
 
 ```bash
 lib/
-├── app/ # Theme & configs
-├── data/ # Models & database
-├── providers/ # Logic & state
-├── screens/ # UI screens
-├── widgets/  # Reusable components
+├── app/  Reusable components 
+├── data/ Models & database
+├── providers/ Logic & state
+├── screens/ UI screens
+├── widgets/ Reusable components
 
 android/
 └── native (Kotlin)
 
 
----
+```
 
 ## ⚙️ How It Works
 
