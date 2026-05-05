@@ -12,6 +12,15 @@ It guides you through tasks using structured timers, smart reminders, and clear 
   </a>
 </p>
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="Screenshots/01_onboarding_screen.png" width="220"/>
+  <img src="Screenshots/03_home_dashboard.png" width="220"/>
+  <img src="Screenshots/05_task_setup.png" width="220"/>
+  <img src="Screenshots/07_timer_running.png" width="220"/>
+</p>
+
 ## 🚀 Features
 
 ### ⚡ Multi-Task Routine Timer
