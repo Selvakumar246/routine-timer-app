@@ -43,6 +43,7 @@ It guides you through tasks using structured timers, smart reminders, and clear 
 ---
 
 ## 🏗️ Project Structure
+
 lib/
 ├── app/ # Theme & configs
 ├── data/ # Models & database
@@ -108,7 +109,7 @@ Suggestions and improvements are always welcome.
 
 ## 📬 Contact
 
-📧 vjselvakumarofficial@gmail.com
+📧 [vjselvakumarofficial@gmail.com](mailto:vjselvakumarofficial@gmail.com)
 
 
 ## 🏗️ Project Structure
