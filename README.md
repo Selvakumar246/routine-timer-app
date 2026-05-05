@@ -44,12 +44,13 @@ It guides you through tasks using structured timers, smart reminders, and clear 
 
 ## 🏗️ Project Structure
 
+```bash
 lib/
 ├── app/ # Theme & configs
 ├── data/ # Models & database
 ├── providers/ # Logic & state
 ├── screens/ # UI screens
-├── widgets/ # Reusable components
+├── widgets/  # Reusable components
 
 android/
 └── native (Kotlin)
